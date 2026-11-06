@@ -1,0 +1,22 @@
+# stella octangula: two interlocking tetrahedra (2 objects in one file)
+# 8 vertices, 8 faces, 8 triangles when triangulated
+# faces are counterclockwise seen from outside
+v 0.9000 0.9000 0.9000
+v 0.9000 -0.9000 -0.9000
+v -0.9000 0.9000 -0.9000
+v -0.9000 -0.9000 0.9000
+v 0.9000 -0.9000 0.9000
+v -0.9000 0.9000 0.9000
+v -0.9000 -0.9000 -0.9000
+v 0.9000 0.9000 -0.9000
+
+o tetra_up
+f 1 2 3
+f 4 2 1
+f 1 3 4
+f 4 3 2
+o tetra_down
+f 5 6 7
+f 7 6 8
+f 8 5 7
+f 6 5 8

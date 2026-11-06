@@ -1,0 +1,29 @@
+# triangular frame: a flat triangular ring with a hole
+# 12 vertices, 12 faces, 24 triangles when triangulated
+# faces are counterclockwise seen from outside; y is up
+v 0.0000 1.0000 0.1500
+v -0.8660 -0.5000 0.1500
+v -0.4330 -0.2500 0.1500
+v 0.0000 0.5000 0.1500
+v 0.0000 0.5000 -0.1500
+v -0.4330 -0.2500 -0.1500
+v -0.8660 -0.5000 -0.1500
+v 0.0000 1.0000 -0.1500
+v 0.8660 -0.5000 0.1500
+v 0.4330 -0.2500 0.1500
+v 0.4330 -0.2500 -0.1500
+v 0.8660 -0.5000 -0.1500
+
+o frame
+f 1 2 3 4
+f 5 6 7 8
+f 8 7 2 1
+f 6 5 4 3
+f 2 9 10 3
+f 6 11 12 7
+f 7 12 9 2
+f 11 6 3 10
+f 9 1 4 10
+f 11 5 8 12
+f 12 8 1 9
+f 5 11 10 4
