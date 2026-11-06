@@ -42,7 +42,7 @@ model.obj  ->  RENDER.py  ->  parsed.txt  ->  v2_triangulate.py  ->  triangulate
 
 ## Setup
 
-Compile the renderer (a prebuilt binary is already in the repo, but this makes sure it matches your machine):
+Compile the renderer:
 
 ```bash
 gcc v3_renderer.c -o v3_renderer -lm
