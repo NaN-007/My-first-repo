@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+v3_renderer
+parsed.txt
+triangulated.txt
