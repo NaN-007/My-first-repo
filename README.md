@@ -37,7 +37,7 @@ model.obj  ->  RENDER.py  ->  parsed.txt  ->  v2_triangulate.py  ->  triangulate
 
 - Linux (or something similar with a Unix-style terminal; it uses `termios`)
 - Python 3
-- `gcc` (only needed if you want to recompile the renderer)
+- `gcc` 
 - [`expect`](https://core.tcl-lang.org/expect/index), which is how the triangulator hands the data to the renderer and then gives the keyboard back to it
 - A terminal with true-colour support, and a big window (see the note below)
 - A perfectly square terminal font. It runs without it, however it results in a vertically stretched render, since most fonts are taller than they are wide. unscii-8 is a perfectly square terminal font.
