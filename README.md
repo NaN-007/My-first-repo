@@ -83,15 +83,17 @@ Swap `shark.obj` for any file in `models/`.
 
 `cube`, `dodecahedron`, `icosahedron`, `heart`, `shark`, `c_shark`, `rocket`, `starfighter`, `gem`, `crystals`, `jack`, `kis_cube`, `lightning_bolt`, `prism`, `hexagonal_prism`, `five_point_star_prism`, `stella_octangula`, `cube_octahedron_compound`, `truncated_octahedron`, `twisted_tower`, `square_frame`, `triangle_frame`.
 
+## Images
+
+![gem](Images/Screenshot%202026-10-25%20232352.png)
+![steloct](Images/Screenshot%202026-10-25%20213658.png)
+![img](Images/Screenshot%202026-10-25%20213933.png)
+![cube](Images/Screenshot%202026-10-25%20172615.png)
+
 ## Ideas for later
 
 - Collapse the repeated rotate/zoom/move code in the main loop into functions
 - Auto-scale and auto-centre models so every `.obj` fits the canvas
 - Raise the triangle and edge limits, and fix the issue with the objects' edges.
 - A single script or Makefile instead of the Python-to-expect-to-C chain
-
-![gem](Images/Screenshot%202026-10-25%20232352.png)
-![steloct](Images/Screenshot%202026-10-25%20213658.png)
-![img](Images/Screenshot%202026-10-25%20213933.png)
-![cube](Images/Screenshot%202026-10-25%20172615.png)
 
