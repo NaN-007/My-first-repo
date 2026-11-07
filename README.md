@@ -89,3 +89,9 @@ Swap `shark.obj` for any file in `models/`.
 - Auto-scale and auto-centre models so every `.obj` fits the canvas
 - Raise the triangle and edge limits, and fix the issue with the objects' edges.
 - A single script or Makefile instead of the Python-to-expect-to-C chain
+
+![gem](Screenshot%202026-10-25%20232352.png)
+![steloct](Screenshot%202026-10-25%20213658.png)
+![My Project Image](Screenshot%202026-10-25%20213933.png)
+![My Project Image](Screenshot%202026-10-25%20172615.png)
+
