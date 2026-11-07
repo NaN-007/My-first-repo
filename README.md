@@ -3,6 +3,8 @@ Terminal 3D .obj viewer in C and Python (custom ear clipping triangulation, z bu
 
 It's my first GitHub project, about 3 months into coding, so it's rough around the edges, but it works and I'm pretty happy with it.
 
+![A rotating gem in the terminal](Images/demo.gif)
+
 > **How it was made:** Built in about 10 days, with very little AI help. I only used it for syntax and for learning new things I hadn't touched before, mainly terminal canonical mode and `expect`. The logic and the rest of the code are my own, apart from Newell's method for the face normal (see the note in `v2_triangulate.py`), which I found online.
 
 ## What it does
