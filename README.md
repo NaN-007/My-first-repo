@@ -90,8 +90,8 @@ Swap `shark.obj` for any file in `models/`.
 - Raise the triangle and edge limits, and fix the issue with the objects' edges.
 - A single script or Makefile instead of the Python-to-expect-to-C chain
 
-![gem](Screenshot%202026-10-25%20232352.png)
-![steloct](Screenshot%202026-10-25%20213658.png)
-![My Project Image](Screenshot%202026-10-25%20213933.png)
-![My Project Image](Screenshot%202026-10-25%20172615.png)
+![gem](Images/Screenshot%202026-10-25%20232352.png)
+![steloct](Images/Screenshot%202026-10-25%20213658.png)
+![img](Images/Screenshot%202026-10-25%20213933.png)
+![cube](Images/Screenshot%202026-10-25%20172615.png)
 
